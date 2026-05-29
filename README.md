@@ -1,3 +1,5 @@
+To Do List
+
 Uma aplicação simples e responsiva de lista de tarefas desenvolvida com HTML, CSS e JavaScript, permitindo adicionar, concluir e remover tarefas de forma dinâmica.
 Durante o desenvolvimento deste projeto, foram praticados conceitos como: 
 Manipulação do DOM
